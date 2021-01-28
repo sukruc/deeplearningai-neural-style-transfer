@@ -1,0 +1,4 @@
+*checkpoints*
+*__pycache__*
+images/sukru.jpg
+pretrained-model/imagenet-vgg-verydeep-19.mat
